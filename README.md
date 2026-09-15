@@ -85,10 +85,6 @@ As a member of the project team, I contributed to:
 
 **Programming Environment:** mBlock 5
 
-## Documentation
-
-Project documentation and presentation materials can be added to this repository when available.
-
 ## Acknowledgement
 
 The project was developed using the **Makeblock Ultimate 2.0** platform and its official documentation and programming resources.
